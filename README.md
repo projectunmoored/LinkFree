@@ -1,8 +1,7 @@
 # LinkFree
 
-[Website](https://michaelbarney.github.io/LinkFree)
+[Website](https://projectunmoored.github.io/ProjectUnmoored)
 
-<img src="https://i.imgur.com/B4LX0kY.png" alt="alt text" width="250px">
 
 ## What is Project Unmoored?
 
