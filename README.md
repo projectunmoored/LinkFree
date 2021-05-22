@@ -1,45 +1,13 @@
 # LinkFree
 
-A free and open source alternative to LinkTree!
-
 [Website](https://michaelbarney.github.io/LinkFree)
 
 <img src="https://i.imgur.com/B4LX0kY.png" alt="alt text" width="250px">
 
-## What is LinkFree?
+## What is Project Unmoored?
 
-Ever wanted to add more links to your Instagram bio? LinkFree does just that! It gathers all of your links into one page that is easy to navigate.
+Child abuse can negatively affect the survivor's personality development and ability to regulate their emotions, which can lead to self-destructive and impulsive behaviors, such as repeated self-harm or recurrent suicide attempts as examples. Those who have been repeatedly abused over time may experience dissociation and enter trance states, often triggered by reminders of the abuse, in which they relive such traumatic experiences. This type of abuse is strongly associated with depression, aggression, hostility, anger, fear, anxiety disorders, and adult personality disorders. At least 3 meta-analyzes on the effects of child sexual abuse find clear and convincing evidence of a link between such abuse and a range of adult psychological symptoms.
+Whether the trauma occurred in childhood or adolescence, it inevitably changes the perspective of yourself and surroundings.
+Taking into account the negative impact, both mentally and psychologically, as previously stated, the Project Unmoored aims to offer easy access to psychological care lines where mental health is prioritized; meaning your feelings and struggles will not remain overseen at any time. Simultaneously, as an action plan, there will be a group of guests specialized in health to host conferences through the new Twitter Spaces modality.
+This pain won’t be for evermore.
 
-## What are the benefits?
-
-Compared to other solutions, LinkFree is fully customizable and open source!
-
-- No more pesky third party logos
-- Add your custom colors, images and fonts
-- Use full custom analytics and metrics platforms
-- Create your own template or use one made by the community!
-
-## How to use?
-
-To startoff, you can choose a template for your LinkFree in the "Templates" directory. Then you can clone or fork this repository to adapt it with your information.
-
-You can fork this repository to your own account and there configure your personal page using github pages. This will let you make edits much faster.
-
-## How to see statistics?
-
-You can use any statiscs platform of your choosing that is based on client javascript. We recommend the following:
-
-- [Amplitude](https://amplitude.com/homepage)
-- [Hotjar](https://www.hotjar.com/)
-
-You can use any of the functions for load and click defined on the javascript file of the LinkFree template or add code snippets to the Head or Body of the HTML file.
-
-## How to contribute?
-
-There are a three ways you can contribute. You can make changes to the core LinkFree project, create new LinkFree templates or just share your LinkFree.
-
-### Creating Templates
-
-A new template is a general LinkFree that has a distinctive structure or style when compared to previous templates.
-
-To submit one, you just have to make a pull request with your addition in the "Templates" directory.
