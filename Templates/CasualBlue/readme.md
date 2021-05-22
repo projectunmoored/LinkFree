@@ -9,7 +9,7 @@
  1. **Title**
     This is the name that is given to the page.
 	   ```
-	   <title>Your Title Here</title>
+	   <title>Project Unmoored</title>
 	   ```
  2. **(Optional) Favicon** 
 	To change the favicon, just replace the "favicon.ico" file. You can generate the .ico file in a website like [favicon.io](https://favicon.io/).
@@ -23,7 +23,7 @@
 	```
 	<div  id="links">
 
-		<a  href="https://pt.wikipedia.org/wiki/Homer_Simpson"  target="_blank">Wikipedia</a>
+		<a  href="https://www.twitter.com/repstaylor"  target="_blank">Wikipedia</a>
 
 		<a  href="https://foxplay.com/br/forme"  target="_blank">IMDB</a>
 
@@ -34,12 +34,12 @@
 	 Substitute the background and accent colors with your desired pallete.
 	 ```
 	 --bgColor: white;
-	--accentColor: #39e09b;
+	--accentColor: #b07c56;
 	 ```
  6. **Fonts**
 	 You can import the font from a website like [Google Fonts](https://fonts.google.com/) and substitute the "--font" variable with its implementation.
 	 ```
-	 @import  url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
+	 @import  url('https://fonts.google.com/specimen/IM+Fell+DW+Pica+SC');
 	 
-	 --font: 'Karla', sans-serif;
+	 --font: 'evermore', IM Fell DW Pica;
 	 ```
